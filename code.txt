@@ -32,7 +32,6 @@
           <li class="nav-item">
             <a class="nav-link" href="#">price plan</a>
           </li>
-
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Pages
@@ -53,9 +52,6 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Contact</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">01553465522</a>
           </li>
        
       </div>
@@ -495,7 +491,7 @@ Read More
   
   <img src="images/women.jpg" alt="">
   
-  <h4 class="my-3">Eng Hala</h4>
+  <h4 class="my-3">Eng Abdullah</h4>
   
   
   
@@ -720,5 +716,10 @@ Read More
   <footer class="py-3 bg-dark text-white text-center">
 
     <h5>Created By Jalal Mohamed Jalal C3 </h5>
-    
-    </footer>
+    
+    </footer>
+
+  
+
+
+
